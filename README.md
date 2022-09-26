@@ -1,7 +1,7 @@
 # 2022-3B-C109118213
 ### 2022-3B-C109118213-黃己庭
 
-Emphasis, aka italics, with asterisks or underscores.
+Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores.**
 
