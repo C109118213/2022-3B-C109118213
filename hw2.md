@@ -1,6 +1,6 @@
 ### 1. PERT/CPM
 ---
-![PERT](PERT_CPM-hw2.png)
+![PERT](hw2-PERT_CPM.png)
 
 ### 2.甘特圖
 ---
